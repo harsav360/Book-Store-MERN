@@ -3,7 +3,9 @@ In this Repository, I created an online Book store, Where a user can Upload, Del
 Users have two options to view the List of Books.
 1. Table Option
 <img width="941" alt="image" src="https://github.com/harsav360/Book-Store-MERN/assets/51308620/4f4101cb-6332-4835-8164-b12e76b2c026">
+
 2. Card Option
+
 <img width="937" alt="image" src="https://github.com/harsav360/Book-Store-MERN/assets/51308620/64459a05-1b34-40b2-8ac7-19147ec78278">
 
 Operations User can do.
